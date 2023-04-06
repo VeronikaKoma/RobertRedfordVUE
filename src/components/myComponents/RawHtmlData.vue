@@ -22,7 +22,7 @@ export default {
         <img :src="person.img" :alt="person.name">
     </div>
 
-</template>
+</template> 
 
 
 <style lang="css" scoped>
