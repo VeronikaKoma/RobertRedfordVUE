@@ -27,6 +27,6 @@ export default {
 
 <style lang="css" scoped>
 h3{
-    color: rgb(62, 169, 240);
+    color: rgb(11, 142, 230);
 }
 </style>
