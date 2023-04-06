@@ -21,9 +21,11 @@ export default {components: { SingleComponent, RawHtmlData } };
             Yo tuve que encontrar la manera de dejar las emociones, porque sea cual fuere la emoción que sintieras, 
             éstas no eran invitadas a la mesa familiar".</h3>
             ---------------------------------------------------------------------
+            <RawHtmlData />
+            ---------------------------------------------------------------------
             <SingleComponent />
             ------------------------------------------------------------------------
-            <RawHtmlData />
+        
     </div>
 </template>
 
